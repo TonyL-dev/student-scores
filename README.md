@@ -1,0 +1,2 @@
+# student-scores
+This school project involves using different machine learning algorithms to predict whether a student can correctly answer a specific diagnostic question based on the student's previous answers to other questions and other students' responses. Predicting the correctness of students’ answers to as yet unseen diagnostic questions helps estimate the student’s ability level in a personalized education platform.
